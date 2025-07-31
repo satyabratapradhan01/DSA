@@ -1,4 +1,4 @@
-
+package conditional_statements;
 
 import java.util.Scanner;
 
