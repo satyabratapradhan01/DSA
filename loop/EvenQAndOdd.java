@@ -1,7 +1,4 @@
-
 import java.util.Scanner;
-
-
 
 public class EvenQAndOdd {
     public static void main(String[] args) {

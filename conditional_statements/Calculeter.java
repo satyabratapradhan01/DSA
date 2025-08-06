@@ -1,6 +1,5 @@
 package conditional_statements;
 
-
 import java.util.Scanner;
 
 public class Calculeter {
@@ -18,13 +17,13 @@ public class Calculeter {
             case "+":
                 System.out.println(a + b);
                 break;
-                case "-":
+            case "-":
                 System.out.println(a - b);
                 break;
-                case "*":
+            case "*":
                 System.out.println(a * b);
                 break;
-                case "/":
+            case "/":
                 System.out.println((a / b));
                 break;
             default:

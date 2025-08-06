@@ -11,7 +11,7 @@ public class LargestNumOfTwo {
         int secondNum = sc.nextInt();
 
         if(firstNum > secondNum){
-            System.out.println(firstNum + " is grete");
+            System.out.println(firstNum + " is greter");
         }else{
             System.out.println(secondNum + " is greter");
         }

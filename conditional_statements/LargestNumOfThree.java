@@ -19,7 +19,6 @@ public class LargestNumOfThree {
         }else{
             System.out.println("Largest is " + thiredNum);
         }
-
         
     }
 }
