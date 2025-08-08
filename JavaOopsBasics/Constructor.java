@@ -1,6 +1,6 @@
 
 class BankAccount{
-    double balance;
+    private double balance;
     String accountType;
 
     public BankAccount(double _balance){
