@@ -1,3 +1,5 @@
+package JavaCollectionsFramework;
+
 
 import java.util.*;
 
